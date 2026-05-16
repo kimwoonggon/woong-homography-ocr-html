@@ -1,0 +1,4 @@
+interface:
+  display_name: "Homography OCR HTML"
+  short_description: "Crop slides and create local HTML."
+  default_prompt: "Crop presentation photos with homography, OCR the slide crops, and build one local HTML document."
